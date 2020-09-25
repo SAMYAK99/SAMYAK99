@@ -10,13 +10,13 @@
 
 ## 🧐 About
 - 🔭 I’m currently working on my side projects.
-- 🌱 I’m currently learning data structures and algoritms.
+- 🌱 I’m currently learning Flutter.
 - 😄 I usually like to make open source contributions.
 - 🤔 I’m looking for help with data structures and algorithms.
 - 🌱 I am always ready to explore new things.
-- 🎨 Fun fact: In my free time, you'll find me playing games or watching some series.
-- 😄 Pronouns: he/him
-- 👯 And Many More...
+- 🎨 Fun fact: In my free time, you'll find me playing games.
+- 😄 Pronouns: he/him.
+
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -25,6 +25,7 @@
 - 📫 How to reach me: ping me at [singhsamyak199@gmail.com](mailto:singhsamyak199@gmail.com)
 - ⚡ Fun fact: I prefer coding at night!
 
+![Samyak's github stats](https://github-readme-stats.vercel.app/api?username=SAMYAK99&show_icons=true&hide_border=true&hide=["stars"])
 
 <br>
 
