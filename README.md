@@ -25,7 +25,7 @@
 - 📫 How to reach me: ping me at [streamerx047@gmail.com](mailto:streamerx047@gmail.com)
 - ⚡ Fun fact: I prefer coding at night!
 
-
+![Samyak's github stats](https://github-readme-stats.vercel.app/api?username=SAMYAK99&show_icons=true&hide_border=true&hide=["stars"])
 
 <br>
 
