@@ -6,7 +6,7 @@
 ## Hi there 👋,           
 #### I'm Samyak Singh, Android and Flutter developer with an avid interest in Data Structures, Algorithms and Optimization. As a core programmer, I love taking challenges and love being part of the solution. 
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="1px" />
+<!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="1px" /> -->
 
 ## 🧐 About
 - 🔭 I’m currently working on my side projects.
@@ -19,7 +19,7 @@
 
 
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 
 - 📫 How to reach me: ping me at [streamerx047@gmail.com](mailto:streamerx047@gmail.com)
