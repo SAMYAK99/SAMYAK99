@@ -1,39 +1,71 @@
 # Samyak Singh 😀🎧💻
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=SAMYAK99.SAMYAK99)  
+![Profile Views](https://komarev.com/ghpvc/?username=SAMYAK99&color=blue)
 
+# 💫 About Me:
+Android engineer with a strong foundation in data structures, exploring KMP and Flutter, and focused on building scalable mobile apps with real-world impact, including Play Store apps with 250K+ downloads. Outside work, I enjoy badminton, table tennis, story-driven PC games, and following the stock market and crypto space.
 
-## Hi there 👋,           
-#### I'm Samyak Singh, Android and Flutter developer with an avid interest in Data Structures, Algorithms and Optimization. As a core programmer, I love taking challenges and love being part of the solution. 
+🔭 Currently sorking on side projects and experimenting with modern Android patterns  
+🌱 Learning Kotlin Multiplatform (KMP) and improving Flutter skills  
+🤝 Contributing to open source and collaborating with other developers  
+🧠 Strengthening problem-solving skills with data structures and algorithms  
+📱 Focused on building reliable, scalable Android applications  
+🌙 Prefer coding late at night when things are quiet  
+😄 Pronouns: he/him  
+📫 Reach me at: streamerx047@gmail.com
 
-<!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="1px" /> -->
+---
 
-## 🧐 About
-- 🔭 I’m currently working on my side projects.
-- 🌱 I’m currently learning Flutter.
-- 😄 I usually like to make open source contributions.
-- 🤔 I’m looking for help with data structures and algorithms.
-- 🌱 I am always ready to explore new things.
-- 🎨 Fun fact: In my free time, you'll find me playing games.
-- 😄 Pronouns: he/him.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMM](https://img.shields.io/badge/KMM-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/streamerx_12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samyak-singh-007abc)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@singhsamyak199)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12735757)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SamyakSingh18)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@streamerx007)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:streamerx047@gmail.com)
 
-<!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SAMYAK99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SAMYAK99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMYAK99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me: ping me at [streamerx047@gmail.com](mailto:streamerx047@gmail.com)
-- ⚡ Fun fact: I prefer coding at night!
+---
 
-![Samyak's github stats](https://github-readme-stats.vercel.app/api?username=SAMYAK99&show_icons=true&hide_border=true&hide=["stars"])
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SAMYAK99&theme=onedark)
 
-<br>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="Dart" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="36" height="36"/>  <img 
-  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  <img                                                     src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> <img 
-  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> <img   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> <img 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
